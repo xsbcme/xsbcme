@@ -1,9 +1,12 @@
 # Hi, I'm xsbcme
 
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=800&color=75C3FD&center=true&vCenter=true&width=640&lines=Vue+%2F+TypeScript+Developer;Frontend+Engineering+%26+Developer+Tools;Windows+x64+%26+C%2B%2B+Explorer" alt="Typing SVG" />
-	<br />
-	<br />
-	<img src="https://github-readme-stats-fast.vercel.app/api?username=xsbcme&show_icons=true&number_format=long&border_radius=20&rank_icon=percentile&ring_color=75C3FD" alt="xsbcme's GitHub stats" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=2600&amp;pause=800&amp;color=75C3FD&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=Vue+%2F+TypeScript+Developer;Frontend+Engineering+%26+Developer+Tools;Windows+x64+%26+C%2B%2B+Explorer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=xsbcme&amp;show_icons=true&amp;number_format=long&amp;border_radius=20&amp;rank_icon=percentile&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=75C3FD&amp;text_color=8B949E&amp;icon_color=75C3FD&amp;ring_color=75C3FD" alt="xsbcme's GitHub stats" />
+</p>
 
 ## About Me
 
@@ -17,30 +20,35 @@
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=ts,vue,js,nodejs,npm,vite,cpp,cmake,git,github,vscode,docker&perline=6" alt="Tech stack icons" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,vue,js,nodejs,npm,vite,cpp,cmake,git,github,vscode,docker&amp;perline=6" alt="Tech stack icons" />
+</p>
 
 ## GitHub Activity
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=xsbcme&theme=transparent&hide_border=true&border_radius=20&ring=75C3FD&fire=75C3FD&currStreakLabel=75C3FD" alt="GitHub streak" />
-<br />
-<br />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=xsbcme&layout=compact&border_radius=20&hide_border=false&title_color=75C3FD" alt="Top languages" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=xsbcme&amp;theme=transparent&amp;hide_border=true&amp;border_radius=20&amp;ring=75C3FD&amp;fire=75C3FD&amp;currStreakLabel=75C3FD&amp;sideLabels=75C3FD&amp;currStreakNum=8B949E&amp;sideNums=8B949E&amp;dates=8B949E" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=xsbcme&amp;layout=compact&amp;border_radius=20&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=75C3FD&amp;text_color=8B949E" alt="Top languages" />
+</p>
 
 ## Find Me
 
 <div align="center">
 
-	<a href="https://github.com/xsbcme">
-		<img src="https://img.shields.io/badge/GitHub-xsbcme-181717?style=for-the-badge&logo=github" alt="GitHub" />
-	</a>
-	<a href="https://gitee.com/xsbcme">
-		<img src="https://img.shields.io/badge/Gitee-xsbcme-C71D23?style=for-the-badge&logo=gitee" alt="Gitee" />
-	</a>
+<a href="https://github.com/xsbcme">
+  <img src="https://img.shields.io/badge/GitHub-xsbcme-75C3FD?style=for-the-badge&amp;logo=github&amp;logoColor=0D1117&amp;labelColor=0D1117" alt="GitHub" />
+</a>
+<a href="https://gitee.com/xsbcme">
+  <img src="https://img.shields.io/badge/Gitee-xsbcme-75C3FD?style=for-the-badge&amp;logo=gitee&amp;logoColor=0D1117&amp;labelColor=0D1117" alt="Gitee" />
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-	<sub>Thanks for visiting. Stay curious, build steadily.</sub>
+  <sub>Thanks for visiting. Stay curious, build steadily.</sub>
 </div>

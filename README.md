@@ -1,15 +1,9 @@
 # Hi, I'm xsbcme
 
-<div align="center">
-
 	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=800&color=75C3FD&center=true&vCenter=true&width=640&lines=Vue+%2F+TypeScript+Developer;Frontend+Engineering+%26+Developer+Tools;Windows+x64+%26+C%2B%2B+Explorer" alt="Typing SVG" />
-
 	<br />
 	<br />
-
 	<img src="https://github-readme-stats-fast.vercel.app/api?username=xsbcme&show_icons=true&number_format=long&border_radius=20&rank_icon=percentile&ring_color=75C3FD" alt="xsbcme's GitHub stats" />
-
-</div>
 
 ## About Me
 

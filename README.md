@@ -23,39 +23,14 @@
 
 ## Tech Stack
 
-<div align="center">
-
-	<img src="https://skillicons.dev/icons?i=ts,vue,js,nodejs,npm,vite,cpp,cmake,git,github,vscode,docker&perline=6" alt="Tech stack icons" />
-
-</div>
-
-### 从项目看我的技术栈
-
-| 方向 | 技术关键词 | 代表项目 |
-| --- | --- | --- |
-| 前端工程 | TypeScript, Vue, Router, KeepAlive, iframe, 状态管理 | [vue-tab-router](https://github.com/xsbcme/vue-tab-router) |
-| npm 工具 | JavaScript, npm package, Source Map, 自动化监控 | [mapleak](https://github.com/xsbcme/mapleak) |
-| Windows 底层 | C++, Windows x64, Driver, Process Memory, PE Rebuild | [ScyllaDumper](https://github.com/xsbcme/ScyllaDumper) |
-| 管理系统 | Vue, 后台页面, Web 管理端 | [dst-management-platform-web](https://github.com/xsbcme/dst-management-platform-web) |
-
-## Featured Projects
-
-- [vue-tab-router](https://github.com/xsbcme/vue-tab-router)：面向 Vue 后台系统的多标签工作台路由管理方案，覆盖页面打开、缓存、关闭、刷新、iframe、面包屑、菜单联动、守卫和页面通信等场景。
-- [mapleak](https://github.com/xsbcme/mapleak)：自动化 npm Source Map 泄露监控系统，用于发现包产物中意外暴露的源码映射文件。
-- [ScyllaDumper](https://github.com/xsbcme/ScyllaDumper)：Windows x64 进程转存与 PE 重建方向的 C++ 实践项目，聚焦内存读取、进程操作和可执行文件结构分析。
+<img src="https://skillicons.dev/icons?i=ts,vue,js,nodejs,npm,vite,cpp,cmake,git,github,vscode,docker&perline=6" alt="Tech stack icons" />
 
 ## GitHub Activity
 
-<div align="center">
-
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=xsbcme&theme=transparent&hide_border=true&border_radius=20&ring=75C3FD&fire=75C3FD&currStreakLabel=75C3FD" alt="GitHub streak" />
-
-	<br />
-	<br />
-
-	<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=xsbcme&layout=compact&border_radius=20&hide_border=false&title_color=75C3FD" alt="Top languages" />
-
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=xsbcme&theme=transparent&hide_border=true&border_radius=20&ring=75C3FD&fire=75C3FD&currStreakLabel=75C3FD" alt="GitHub streak" />
+<br />
+<br />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=xsbcme&layout=compact&border_radius=20&hide_border=false&title_color=75C3FD" alt="Top languages" />
 
 ## Find Me
 

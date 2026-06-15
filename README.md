@@ -8,18 +8,15 @@
 
 ## 关于我
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
-      <p>你好，我是 <strong>xsbcme</strong>。平时主要写 <strong>Vue / TypeScript</strong>，也会写一些 <strong>Node.js</strong> 工具和 <strong>Java</strong> 业务代码。</p>
-      <p>我待得最多的地方是后台系统和前端工程化。比起热闹的表达，我更习惯把功能理清楚，把流程做稳定，把问题一点点查到原因 🧩</p>
-      <p>也会写一点 <strong>C / C++</strong>。最近在看 <strong>Go</strong> 和 <strong>Rust</strong>，慢慢补系统方向的知识，进度不算快，但会持续往前走 🌱</p>
-    </td>
-    <td width="42%" align="center" valign="top">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=xsbcme&amp;show_icons=true&amp;number_format=long&amp;border_radius=20&amp;rank_icon=percentile&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=75C3FD&amp;text_color=8B949E&amp;icon_color=75C3FD&amp;ring_color=75C3FD" alt="xsbcme's GitHub stats" />
-    </td>
-  </tr>
-</table>
+<img align="right" width="42%" src="https://github-readme-stats-fast.vercel.app/api?username=xsbcme&amp;show_icons=true&amp;number_format=long&amp;border_radius=20&amp;rank_icon=percentile&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=75C3FD&amp;text_color=8B949E&amp;icon_color=75C3FD&amp;ring_color=75C3FD" alt="xsbcme's GitHub stats" />
+
+你好，我是 **xsbcme**。平时主要写 **Vue / TypeScript**，也会写一些 **Node.js** 工具和 **Java** 业务代码。
+
+我待得最多的地方是后台系统和前端工程化。比起热闹的表达，我更习惯把功能理清楚，把流程做稳定，把问题一点点查到原因 🧩
+
+也会写一点 **C / C++**。最近在看 **Go** 和 **Rust**，慢慢补系统方向的知识，进度不算快，但会持续往前走 🌱
+
+<br clear="right" />
 
 ## 最近常做
 
